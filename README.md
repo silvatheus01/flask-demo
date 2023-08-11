@@ -49,4 +49,3 @@ curl http://127.0.0.1:5000/municipio-bairros?municipio=rio-de-janeiro
     ]
 }
 ```
-Seja feliz. :smile:
